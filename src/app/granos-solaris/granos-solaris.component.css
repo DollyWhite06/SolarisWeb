@@ -1,0 +1,80 @@
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    padding-top: 30px;
+    color: #423123;
+    text-align: center;
+}
+.back{
+    color: #f28930;
+
+}
+.textoespecial{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-top: 15px;
+    color: #512615;
+    text-align: center;
+}
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-top: 15px;
+    color: black;
+    text-align: center;
+}
+.botones{
+   
+    justify-content: center;
+    display: block;
+     width: 200px;
+     height: 50px;
+     background-color: #f5d3bd ;
+     border: 2px solid #f28930;
+     color: black;
+     text-align: center;
+     line-height: 50px;
+     font-size: 16px;
+     margin: 0 auto; 
+     cursor: pointer;
+
+}
+
+
+  .content{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+        color:white;
+        font-size: 30px;
+        margin-left: 8px;
+        min-width: 120px;
+        padding-bottom: 10px;
+
+  }
+
+
+  .imgg {
+   
+    justify-content: center;
+    display: block;
+     width: auto;
+     height: auto;
+     text-align: center;
+     line-height: 50px;
+     font-size: 16px;
+     margin: 0 auto; 
+     cursor: pointer;
+  }
+  .imggbarra {
+    display: block;
+     width: auto;
+     padding-left: 10px;
+     height: auto;
+     font-size: 16px;
+     cursor: pointer;
+     max-width: 10%; 
+     max-height: 90%; 
+    }
